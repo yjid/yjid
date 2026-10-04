@@ -4,7 +4,7 @@ Software engineer and CSE student. I build tools, backends, and systems.
 
 Previously @ PhotoGPT. Currently building [Captos](https://captos.pro).
 
-[Website](https://yashjangid.dev) · [Blog](https://yashjangid.dev/blog) · [X](https://x.com/imgochi) · [LinkedIn](https://www.linkedin.com/in/yashjid) · [Email](mailto:realyashid@gmail.com)
+[Website](https://yashjangid.dev) · [Blog](https://yashjangid.dev/blog) · [X](https://x.com/imgochi) · [LinkedIn](https://www.linkedin.com/in/yashjid) 
 
 ### Projects
 
