@@ -1,4 +1,4 @@
-# Hey, I'm Yash Jangid.
+### Hey, I'm Yash Jangid.
 
 Backend, DevOps & systems engineer. I build tools, backends, realtime systems, and GPU
 pipelines — the kind of infrastructure that has to hold up when real people use it.
