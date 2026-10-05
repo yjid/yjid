@@ -10,4 +10,4 @@ Previously @ PhotoGPT. Currently building [Captos](https://captos.pro).
 
 **[AirDelivery](https://airdelivery.site)** — P2P file transfer in the browser. 300k+ visitors.
 
-**[Captos](https://captos.pro)** — Video-to-shorts platform.
+**[Captos](https://captos.pro)** — AI video platform.
