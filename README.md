@@ -1,13 +1,13 @@
-# Yash Jangid
+# yjid
 
-Software engineer and CSE student. I build tools, backends, and systems.
+I build things. Sometimes they work. Sometimes they become products.
 
-Previously @ PhotoGPT. Currently building [Captos](https://captos.pro).
+Currently building **[Kensaku](https://github.com/yjid/kensaku)** — local file search that reads inside your screenshots. Because I got tired of not finding my own files. 100% local. No cloud. Free. MIT.
 
-[Website](https://yashjangid.dev) · [Blog](https://yashjangid.dev/blog) · [X](https://x.com/imgochi) · [LinkedIn](https://www.linkedin.com/in/yashjid) 
+Also: **[Captos](https://captos.pro)** (AI video), **[AirDelivery](https://airdelivery.site)** (P2P file transfer, 300k+ visitors).
 
-### Projects
+Stack: Rust, Go, TypeScript, whatever gets the job done.
 
-**[AirDelivery](https://airdelivery.site)** — P2P file transfer in the browser. 300k+ visitors.
+[yashjangid.dev](https://yashjangid.dev) · [blog](https://yashjangid.dev/blog) · [x](https://x.com/imgochi) · [linkedin](https://www.linkedin.com/in/yashjid)
 
-**[Captos](https://captos.pro)** — AI video platform.
+If you broke something, open an issue. If you want to build something, let's talk.
