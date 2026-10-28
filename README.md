@@ -11,7 +11,7 @@ Broke something? Open an issue. Want to build something? Hit me up. I like conne
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="random dev joke that changes every load" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote that changes every load" />
 </p>
 
-<p align="center"><sub>random dev joke. changes every load. no reason.</sub></p>
+<p align="center"><sub>random quote. changes every load. no reason.</sub></p>
