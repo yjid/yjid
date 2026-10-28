@@ -6,4 +6,4 @@ Also: **[Captos](https://captos.pro)** (AI video), **[AirDelivery](https://airde
 
 [yashjangid.dev](https://yashjangid.dev) · [blog](https://yashjangid.dev/blog) · [x](https://x.com/imgochi) · [linkedin](https://www.linkedin.com/in/yashjid)
 
-If you broke something, open an issue. If you want to build something together, let's talk — I like connecting and working with people. No pressure.
+Broke something? Open an issue. Want to build something? Hit me up. I like connecting and working with people. No bullshit.
