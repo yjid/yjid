@@ -11,7 +11,7 @@ Broke something? Open an issue. Want to build something? Hit me up. I like conne
 ---
 
 <p align="center">
-  <img src="https://cataas.com/cat" width="300" alt="random cat that shows up every time you load this page" />
+  <img src="https://placedog.net/500/300" width="400" alt="random dog that shows up every time you load this page" />
 </p>
 
-<p align="center"><sub>random cat. changes every load. no reason.</sub></p>
+<p align="center"><sub>random dog. changes every load. no reason.</sub></p>
