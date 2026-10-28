@@ -11,7 +11,16 @@ Broke something? Open an issue. Want to build something? Hit me up. I like conne
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote that changes every load" />
+  <img src="https://cataas.com/cat" width="250" alt="random cat" />
+  <img src="https://placedog.net/250/200" width="250" alt="random dog" />
 </p>
 
-<p align="center"><sub>random quote. changes every load. no reason.</sub></p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="random dev joke" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote" />
+</p>
+
+<p align="center"><sub>random. all of them. changes every load. no reason.</sub></p>
