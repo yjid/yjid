@@ -7,3 +7,11 @@ Also: **[Captos](https://captos.pro)** (AI video), **[AirDelivery](https://airde
 [yashjangid.dev](https://yashjangid.dev) · [blog](https://yashjangid.dev/blog) · [x](https://x.com/imgochi) · [linkedin](https://www.linkedin.com/in/yashjid)
 
 Broke something? Open an issue. Want to build something? Hit me up. I like connecting and working with people. No bullshit.
+
+---
+
+<p align="center">
+  <img src="https://cataas.com/cat" width="300" alt="random cat that shows up every time you load this page" />
+</p>
+
+<p align="center"><sub>random cat. changes every load. no reason.</sub></p>
