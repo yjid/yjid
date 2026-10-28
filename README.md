@@ -7,20 +7,3 @@ Also: **[Captos](https://captos.pro)** (AI video), **[AirDelivery](https://airde
 [yashjangid.dev](https://yashjangid.dev) · [blog](https://yashjangid.dev/blog) · [x](https://x.com/imgochi) · [linkedin](https://www.linkedin.com/in/yashjid)
 
 Broke something? Open an issue. Want to build something? Hit me up. I like connecting and working with people. No bullshit.
-
----
-
-<p align="center">
-  <img src="https://cataas.com/cat" width="250" alt="random cat" />
-  <img src="https://placedog.net/250/200" width="250" alt="random dog" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="random dev joke" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote" />
-</p>
-
-<p align="center"><sub>random. all of them. changes every load. no reason.</sub></p>
