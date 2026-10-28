@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/yjid"><img src="https://hub.xerj.org/contributors/yjid/badge.svg" alt="XERJ Corpus Hub Contributor" /></a>
+</p>
+
 I build things. Sometimes they work. Sometimes they become products.
 
 Currently building **[Kensaku](https://github.com/yjid/kensaku)** — local file search that reads inside your screenshots. Because I got tired of not finding my own files. 100% local. No cloud. Free. MIT.
