@@ -1,6 +1,6 @@
 I build things. Sometimes they work. Sometimes they become products.
 
-Currently building **[Kensaku](https://github.com/yjid/kensaku)** — local file search that reads inside your screenshots. Because I got tired of not finding my own files. 100% local. No cloud. Free. MIT.
+Currently building **[Kensaku](https://github.com/yjid/kensaku)**
 
 Also: **[Captos](https://captos.pro)** (AI video), **[AirDelivery](https://airdelivery.site)** (P2P file transfer, 300k+ visitors).
 
