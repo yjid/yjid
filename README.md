@@ -14,5 +14,4 @@ Broke something? Open an issue. Want to build something? Hit me up. I like conne
 
 <p align="center">
   <img src="image.png" width="100%" alt="kensaku" />
-  <img src="https://komarev.com/ghpvc/?username=yjid" width="1" height="1" alt="" />
 </p>
